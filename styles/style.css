@@ -83,13 +83,11 @@ section.imagem > p {
 section#background1 {
     background-image: url(../imagens/background1_my.jpg);
     background-position: right center;
-    position: fixed;
 }
 
 section#background2 {
     background-image: url(../imagens/background2_my.jpg);
     background-position: right 40%;
-    position: fixed;
 }
 
 footer {
